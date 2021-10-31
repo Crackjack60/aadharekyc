@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">otpverficationVT</string>
+    <string name="we_will_send_you_an_one_time_otp_on_this_given_mobile_number">We will send you an one time otp on this given mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile number</string>
+    <string name="otp_verfication">OTP Verfication</string>
+    <string name="name">Name</string>
+    <string name="enter_aadhar_number">Enter Aadhar Number</string>
+</resources>
